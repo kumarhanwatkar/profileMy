@@ -26,7 +26,7 @@ function PageLoader() {
 function App() {
   return (
     <ErrorBoundary showSupport>
-      <Router basename="/portfolio/">
+      <Router basename={import.meta.env.BASE_URL}>
         <SEO />
         <StructuredData type="Person" />
         <ScrollToTop />

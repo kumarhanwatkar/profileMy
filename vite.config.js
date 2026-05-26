@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
 
   // GitHub Pages project site base path
-  base: '/portfolio/',
+  base: '/profileMy/',
 
   // Environment variable configuration
   envPrefix: 'VITE_',

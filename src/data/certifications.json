@@ -1,0 +1,13 @@
+{
+  "certifications": [
+    {
+      "id": "kumar-hanwatkar-fullstack",
+      "title": "Internship Completion Certificate",
+      "description": "Completed a 6-month internship in Full Stack Web Application Development at Codemate IT Services Pvt. Ltd., with frontend work in HTML, CSS, JavaScript, and ReactJS, plus backend work in NodeJS, ExpressJS, and MongoDB.",
+      "issuer": "Codemate IT Services Pvt. Ltd.",
+      "date": "2025-07-15",
+      "icon": "certificate",
+      "credentialUrl": "images/certifications/kumar-hanwatkar-fullstack.pdf"
+    }
+  ]
+}

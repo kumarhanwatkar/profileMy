@@ -1,0 +1,60 @@
+{
+  "name": "Kumar Hanwatkar",
+  "title": "Software Developer",
+  "tagline": "Full Stack Web Application Developer",
+  "email": "kumarhanwatkaroffice@gmail.com",
+  "phone": "+91 7058487749",
+  "location": "Nagpur, Maharashtra, India",
+  "website": "https://www.linkedin.com/in/kumarhanwatkar/",
+  "domain": "kumarhanwatkar.dev",
+  "resumeUrl": "resume/Kumar_hanwatkar_.pdf",
+  "avatar": "images/hero/avatar.jpg",
+  "heroImages": [
+    "images/hero/avatar.jpg",
+    "images/hero/avatar_2.png",
+    "images/hero/avatar_3.jpg"
+  ],
+  "galleryImages": [
+    {
+      "src": "images/ideathon/ideathon_1.jpg",
+      "alt": "Project milestone",
+      "caption": "Showcasing portfolio work"
+    },
+    {
+      "src": "images/ycce_tech_fest24/web_jam_2_1.jpg",
+      "alt": "Hackathon and event participation",
+      "caption": "Leadership and event collaboration"
+    },
+    {
+      "src": "images/nmc_project/nmc_project_1.jpg",
+      "alt": "Full-stack development",
+      "caption": "Building real-world products"
+    }
+  ],
+  "social": {
+    "github": "https://github.com/kumarhanwatkar",
+    "linkedin": "https://www.linkedin.com/in/kumarhanwatkar/",
+    "twitter": "",
+    "youtube": ""
+  },
+  "bio": {
+    "short": "Software developer experienced in full-stack web applications using React.js, Node.js, Express.js, and modern web tooling.",
+    "long": "I develop scalable and responsive web applications with strong focus on performance, usability, and clean engineering practices. During my internship at Coding Mitra (Codemate) IT Services, I worked across frontend and backend systems to deliver production-ready modules, REST APIs, and optimized user experiences. I also contribute to technical event leadership and bring strong fundamentals in data structures, algorithms, and collaborative Agile development."
+  },
+  "highlights": [
+    "Developed LMS user module serving 1000+ users",
+    "Built full-stack systems with React.js, Node.js, and Express.js",
+    "Led execution support for GD Fest and inter-college hackathon",
+    "Hands-on with REST APIs, database design, and performance optimization"
+  ],
+  "currentRole": {
+    "title": "Software Developer",
+    "company": "",
+    "period": "Open to opportunities"
+  },
+  "languages": [
+    "English",
+    "Hindi",
+    "Marathi"
+  ]
+}

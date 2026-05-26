@@ -1,0 +1,17 @@
+{
+  "achievements": [
+    {
+      "id": "gd-fest-2026",
+      "title": "GD Fest 2026 - Event Leadership",
+      "description": "Contributed to event leadership and cross-functional coordination for GD Fest 2026 with 200+ participants.",
+      "date": "2026-02-15",
+      "category": "Leadership",
+      "icon": "FaUsers",
+      "link": "",
+      "image": "images/achievements/gdfest.jpg",
+      "images": [
+        "images/achievements/gdfest.jpg"
+      ]
+    }
+  ]
+}

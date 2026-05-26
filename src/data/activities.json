@@ -1,0 +1,26 @@
+{
+  "activities": [
+    {
+      "id": "gd-fest-program-representative",
+      "title": "Program Representative - GD FEST",
+      "description": "Led planning and execution of a 2-day Group Discussion competition with 100+ participants, coordinating logistics, scheduling, and real-time problem solving.",
+      "date": "2026-02-14",
+      "category": "Leadership",
+      "icon": "FaUsers",
+      "link": "",
+      "image": "",
+      "images": []
+    },
+    {
+      "id": "inter-college-hackathon-head-organizer",
+      "title": "Head Organizer - Inter-college Technical Hackathon",
+      "description": "Spearheaded a large-scale technical hackathon with 300+ participants and managed end-to-end operations including real-world problem statement design.",
+      "date": "2025-08-30",
+      "category": "Leadership",
+      "icon": "FaUsers",
+      "link": "",
+      "image": "",
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "siteTitle": "Kumar Hanwatkar | Full Stack Developer",
+  "siteDescription": "Full Stack Developer skilled in React.js, Node.js, MongoDB, and systems-focused engineering.",
+  "siteUrl": "https://www.linkedin.com/in/kumarhanwatkar/",
+  "siteKeywords": [
+    "full stack developer",
+    "react.js",
+    "node.js",
+    "mongodb",
+    "mern stack",
+    "software engineer",
+    "nagpur"
+  ],
+  "navigation": [
+    {
+      "name": "Home",
+      "path": "/",
+      "id": "home",
+      "icon": "FaHome",
+      "ariaLabel": "Navigate to home section"
+    },
+    {
+      "name": "About",
+      "path": "/#about",
+      "id": "about",
+      "icon": "FaUser",
+      "ariaLabel": "Navigate to about section"
+    },
+    {
+      "name": "Experience",
+      "path": "/#experience",
+      "id": "experience",
+      "icon": "FaBriefcase",
+      "ariaLabel": "Navigate to experience section"
+    },
+    {
+      "name": "Education",
+      "path": "/#education",
+      "id": "education",
+      "icon": "FaGraduationCap",
+      "ariaLabel": "Navigate to education section"
+    },
+    {
+      "name": "Projects",
+      "path": "/#projects",
+      "id": "projects",
+      "icon": "FaProjectDiagram",
+      "ariaLabel": "Navigate to projects section"
+    },
+    {
+      "name": "Achievements",
+      "path": "/#achievements",
+      "id": "achievements",
+      "icon": "FaTrophy",
+      "ariaLabel": "Navigate to achievements section"
+    },
+    {
+      "name": "Skills",
+      "path": "/#skills",
+      "id": "skills",
+      "icon": "FaCode",
+      "ariaLabel": "Navigate to skills section"
+    },
+    {
+      "name": "Contact",
+      "path": "/#contact",
+      "id": "contact",
+      "icon": "FaEnvelope",
+      "ariaLabel": "Navigate to contact section"
+    }
+  ],
+  "footer": {
+    "copyright": "Kumar Hanwatkar. All rights reserved.",
+    "tagline": "Built with React"
+  },
+  "theme": {
+    "defaultMode": "light",
+    "primaryColor": "#3b82f6",
+    "secondaryColor": "#8b5cf6"
+  }
+}

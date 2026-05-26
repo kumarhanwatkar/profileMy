@@ -1,0 +1,76 @@
+{
+  "experiences": [
+    {
+      "id": "coding-mitra-codemate",
+      "title": "Full Stack Web Application Developer",
+      "company": "Coding Mitra (Codemate) IT Services Pvt. Ltd.",
+      "location": "Nagpur, Maharashtra",
+      "type": "Internship",
+      "startDate": "2025-01-01",
+      "endDate": "2025-07-31",
+      "current": false,
+      "description": "Built and deployed full-stack web solutions including an LMS E-learning Platform user module serving 1000+ users.",
+      "companyLogo": "images/others/pp1.png",
+      "images": [
+        "images/others/pp1.png",
+        "images/experience/codingmitraexp1.png",
+        "images/experience/codingmitraexp2.png"
+      ],
+      "responsibilities": [
+        "Developed and deployed an LMS E-learning Platform (User Module) serving 1000+ users",
+        "Built responsive frontend using HTML, CSS, JavaScript, and React.js",
+        "Developed scalable backend APIs with Node.js, Express.js, and MongoDB",
+        "Implemented RESTful services, authentication, database design, and performance optimization",
+        "Collaborated in an Agile environment to deliver production-ready full-stack applications"
+      ],
+      "technologies": [
+        "JavaScript",
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "highlights": [
+        "LMS module delivered for 1000+ users",
+        "Production-grade full-stack delivery",
+        "Agile team collaboration"
+      ]
+    },
+    {
+      "id": "priva-technologies-web-services",
+      "title": "UI and Social Media Manager",
+      "company": "Priva Technologies and Web Services",
+      "location": "Nagpur, Maharashtra",
+      "type": "Remote",
+      "startDate": "2023-01-01",
+      "endDate": "2023-04-30",
+      "current": false,
+      "description": "Developed responsive website UI and supported social media content and brand consistency during internship.",
+      "companyLogo": "images/others/pp2.png",
+      "images": [
+        "images/others/pp2.png",
+        "images/experience/privaexp1.png",
+        "images/experience/privaexp2.png"
+      ],
+      "responsibilities": [
+        "Developed responsive and scalable website UI using HTML, CSS, and JavaScript",
+        "Built user-centric interfaces improving UX and accessibility",
+        "Maintained cross-browser compatibility and design consistency",
+        "Contributed to a globally operating platform serving international users"
+      ],
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "UI Development",
+        "Social Media"
+      ],
+      "highlights": [
+        "Completed 4-month internship",
+        "Improved usability and responsive interface quality"
+      ]
+    }
+  ]
+}

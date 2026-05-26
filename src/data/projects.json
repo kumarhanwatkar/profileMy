@@ -1,0 +1,75 @@
+{
+  "projects": [
+    {
+      "id": "codemate-corporate-website",
+      "title": "Corporate Website - Coding Mitra (Codemate)",
+      "description": "Developed a responsive corporate website for an IT services company focused on software, AI/ML, and cloud solutions.",
+      "longDescription": "Built a scalable and responsive corporate website with modern UI/UX, SEO optimization, and lead generation contact forms. Implemented cross-device compatible pages using HTML, CSS, JavaScript, React.js, and REST API integrations.",
+      "techStack": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React.js",
+        "REST APIs"
+      ],
+      "category": "Web App",
+      "status": "Completed",
+      "featured": true,
+      "image": "images/projects/pp1.png",
+      "images": [
+        "images/projects/pp1.png"
+      ],
+      "links": {
+        "live": "https://codingmitra.co.in/",
+        "github": "",
+        "demo": ""
+      },
+      "highlights": [
+        "Responsive and scalable corporate site",
+        "SEO optimization and lead generation forms",
+        "Cross-device compatibility"
+      ],
+      "date": "2025-06-30"
+    },
+    {
+      "id": "decentralized-erp-payroll",
+      "title": "Decentralized ERP for Payroll & Resource Optimization",
+      "description": "Built a decentralized ERP concept on BSC with streaming payroll, split-wallet architecture, and AI dashboard integration.",
+      "longDescription": "Developed a Decentralized ERP architecture on Binance Smart Chain with Solidity smart contracts for real-time stablecoin payroll streaming. Designed an 85/15 split-wallet system with automated yield generation and an AI-driven dashboard using MERN stack and Web3/Ethers.js integration.",
+      "techStack": [
+        "Solidity",
+        "Binance Smart Chain",
+        "React.js",
+        "Node.js",
+        "MERN",
+        "Web3",
+        "Ethers.js",
+        "C++"
+      ],
+      "category": "Web App",
+      "status": "Completed",
+      "featured": false,
+      "image": "images/projects/derpimg3.png",
+      "images": [
+        "images/projects/derpimg3.png",
+        "images/projects/derpimg2.png",
+        "images/projects/derpimg1.png"
+      ],
+      "links": {
+        "live": "https://d-erp-lovat.vercel.app/",
+        "github": "",
+        "demo": ""
+      },
+      "highlights": [
+        "Streaming payroll via smart contracts",
+        "85/15 split-wallet architecture",
+        "AI dashboard with MERN and Web3 integration"
+      ],
+      "date": "2025-05-01"
+    }
+  ],
+  "categories": [
+    "All",
+    "Web App"
+  ]
+}

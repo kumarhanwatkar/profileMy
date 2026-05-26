@@ -1,0 +1,272 @@
+{
+  "categories": [
+    {
+      "name": "Languages",
+      "icon": "FaCode",
+      "skills": [
+        {
+          "name": "JavaScript",
+          "icon": "SiJavascript"
+        },
+        {
+          "name": "TypeScript",
+          "icon": "SiTypescript"
+        },
+        {
+          "name": "C++",
+          "icon": "SiCplusplus"
+        },
+        {
+          "name": "C",
+          "icon": "SiC"
+        },
+        {
+          "name": "Java",
+          "icon": "FaJava"
+        },
+        {
+          "name": "Python",
+          "icon": "SiPython"
+        },
+        {
+          "name": "R",
+          "icon": "FaCode"
+        }
+      ]
+    },
+    {
+      "name": "Frontend",
+      "icon": "FaDesktop",
+      "skills": [
+        {
+          "name": "HTML5",
+          "icon": "SiHtml5"
+        },
+        {
+          "name": "CSS3",
+          "icon": "SiCss3"
+        },
+        {
+          "name": "Bootstrap",
+          "icon": "SiBootstrap"
+        },
+        {
+          "name": "TailwindCSS",
+          "icon": "SiTailwindcss"
+        },
+        {
+          "name": "Vite",
+          "icon": "FaTools"
+        },
+        {
+          "name": "shadcn/ui",
+          "icon": "FaDesktop"
+        },
+        {
+          "name": "React.js",
+          "icon": "SiReact"
+        }
+      ]
+    },
+    {
+      "name": "Backend",
+      "icon": "FaServer",
+      "skills": [
+        {
+          "name": "Node.js",
+          "icon": "SiNodedotjs"
+        },
+        {
+          "name": "Express.js",
+          "icon": "SiExpress"
+        },
+        {
+          "name": "Socket.io",
+          "icon": "FaServer"
+        },
+        {
+          "name": "JWT",
+          "icon": "FaPlug"
+        },
+        {
+          "name": "REST APIs",
+          "icon": "FaPlug"
+        }
+      ]
+    },
+    {
+      "name": "Databases",
+      "icon": "FaDatabase",
+      "skills": [
+        {
+          "name": "MongoDB",
+          "icon": "SiMongodb"
+        },
+        {
+          "name": "MongoDB Atlas",
+          "icon": "SiMongodb"
+        },
+        {
+          "name": "Mongoose",
+          "icon": "SiMongodb"
+        },
+        {
+          "name": "MySQL",
+          "icon": "SiMysql"
+        },
+        {
+          "name": "PostgreSQL",
+          "icon": "SiPostgresql"
+        }
+      ]
+    },
+    {
+      "name": "Others",
+      "icon": "FaTools",
+      "skills": [
+        {
+          "name": "Version Control (Git)",
+          "icon": "SiGit"
+        },
+        {
+          "name": "GitHub",
+          "icon": "SiGithub"
+        },
+        {
+          "name": "APIs",
+          "icon": "FaPlug"
+        },
+        {
+          "name": "Web3",
+          "icon": "FaPlug"
+        },
+        {
+          "name": "Ethers.js",
+          "icon": "FaPlug"
+        },
+        {
+          "name": "MetaMask",
+          "icon": "FaTools"
+        },
+        {
+          "name": "Data Structures & Algorithms",
+          "icon": "FaCode"
+        },
+        {
+          "name": "Problem Solving",
+          "icon": "FaCode"
+        }
+      ]
+    }
+  ],
+  "topSkills": [
+    {
+      "name": "JavaScript",
+      "icon": "SiJavascript"
+    },
+    {
+      "name": "TypeScript",
+      "icon": "SiTypescript"
+    },
+    {
+      "name": "React.js",
+      "icon": "SiReact"
+    },
+    {
+      "name": "Node.js",
+      "icon": "SiNodedotjs"
+    },
+    {
+      "name": "Bootstrap",
+      "icon": "SiBootstrap"
+    },
+    {
+      "name": "TailwindCSS",
+      "icon": "SiTailwindcss"
+    },
+    {
+      "name": "Vite",
+      "icon": "FaTools"
+    },
+    {
+      "name": "shadcn/ui",
+      "icon": "FaDesktop"
+    },
+    {
+      "name": "Express.js",
+      "icon": "SiExpress"
+    },
+    {
+      "name": "Socket.io",
+      "icon": "FaServer"
+    },
+    {
+      "name": "JWT",
+      "icon": "FaPlug"
+    },
+    {
+      "name": "MongoDB",
+      "icon": "SiMongodb"
+    },
+    {
+      "name": "MongoDB Atlas",
+      "icon": "SiMongodb"
+    },
+    {
+      "name": "Mongoose",
+      "icon": "SiMongodb"
+    },
+    {
+      "name": "MySQL",
+      "icon": "SiMysql"
+    },
+    {
+      "name": "PostgreSQL",
+      "icon": "SiPostgresql"
+    },
+    {
+      "name": "REST APIs",
+      "icon": "FaPlug"
+    },
+    {
+      "name": "Python",
+      "icon": "SiPython"
+    },
+    {
+      "name": "Java",
+      "icon": "FaJava"
+    },
+    {
+      "name": "C",
+      "icon": "SiC"
+    },
+    {
+      "name": "GitHub",
+      "icon": "SiGithub"
+    },
+    {
+      "name": "Version Control (Git)",
+      "icon": "SiGit"
+    },
+    {
+      "name": "APIs",
+      "icon": "FaPlug"
+    },
+    {
+      "name": "Web3",
+      "icon": "FaPlug"
+    },
+    {
+      "name": "Ethers.js",
+      "icon": "FaPlug"
+    },
+    {
+      "name": "MetaMask",
+      "icon": "FaTools"
+    },
+    {
+      "name": "Problem Solving",
+      "icon": "FaCode"
+    }
+  ]
+}

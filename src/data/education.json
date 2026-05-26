@@ -1,0 +1,23 @@
+{
+  "education": [
+    {
+      "id": "be-robotics-ai",
+      "degree": "Bachelor of Engineering (B.E.)",
+      "field": "Robotics and Artificial Intelligence",
+      "institution": "Priyadarshini College of Engineering, Nagpur",
+      "location": "Nagpur, Maharashtra",
+      "startDate": "2022-01-01",
+      "endDate": "2026-12-31",
+      "current": true,
+      "grade": "",
+      "description": "Pursuing B.E. in Robotics and Artificial Intelligence with focus on full-stack development, systems design, and real-world technical problem solving.",
+      "achievements": [
+        "Built industry-oriented full-stack projects",
+        "Participated in technical leadership and hackathon operations"
+      ],
+      "images": [
+        "images/education/B_Tech.jpeg"
+      ]
+    }
+  ]
+}
